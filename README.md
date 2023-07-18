@@ -1,6 +1,8 @@
 # Awesome-AI-By-Bharat
 This repository contains a hand-curated resources of Artificial Intelligence technologies built by India.
 
+While 'AI-For-Bharat' is valuable, it doesn't quite encompass the spirit of self-reliance that 'AI-By-Bharat' entails. Who truly owns the AI technology when we use cloud services or open-source frameworks? 🤔 It's a complex matter to define, but imagine a litmus test: if there were sanctions against India, would your AI-powered product or technology still function? 💪
+
   
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome" />
@@ -16,6 +18,7 @@ This repository contains a hand-curated resources of Artificial Intelligence tec
 
 # Table of Contents
 
+- [Projects](#projects)
 - [Papers](#papers)
 - [Tools & Code](#tools--code)
 - [Apis](#apis)
@@ -29,15 +32,27 @@ This repository contains a hand-curated resources of Artificial Intelligence tec
 - [Communities](#communities)
 - [How to Contribute](#how-to-contribute)
 
+## Projects
+🔬
+- **Languages**
+	- [Bhashini](https://bhashini.gov.in/en/) : Will enable a more inclusive future for all Indians by creating language datasets and AI technologies for developing language technology solutions.
+	- [Bhasha Daan](https://bhashini.gov.in/bhashadaan/en/home) : A crowdsourcing part of Bhashini. Anyone can contribute to language dataset by participating with audio to text, image to text, translation challenges.
+	- [AI4Bharat](https://ai4bharat.iitm.ac.in/) : Building open-source AI solutions for India! [Github repo]()
+	
+- **Images**
+	- [Niramai](https://www.niramai.com/): Start-up that provides affordable and fast breast cancer screening at clinics in rural India, where there is a significant shortage of radiologists and labs
+
+- **Numeric**
+	- [CropIn](https://www.cropin.com/): An intuitive, intelligent, self-evolving system that delivers future-ready farming solutions to the entire agricultural sector. 
 
 ## Papers
 📄
-- **TBD**:
-  - [TBD](https://arxiv.org/abs/2302.11382) [2023] (Arxiv)
+- **Research**:
+  - [AI4Bharat](https://ai4bharat.iitm.ac.in/publications)
   
  
-- **TBD**:
-  - [TBD](https://arxiv.org/abs/2302.00923) [2023] (Arxiv) 
+- **Articles**:
+  - [How is the Government creating an AI ecosystem in India?](https://www.bennett.edu.in/media-center/blog/how-is-the-government-creating-an-ai-ecosystem-in-india/)
 
 
 ## Tools & Code
@@ -45,7 +60,7 @@ This repository contains a hand-curated resources of Artificial Intelligence tec
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
-| **TBD** | TBD | [[Github]](https://github.com/jerryjliu/gpt_index) |
+| **AI4Bharat** | Artificial-Intelligence-For-Bhārat : Building open-source AI solutions for India! | [[Github]](https://github.com/AI4Bharat) |
 
 
 ## Apis
@@ -70,7 +85,7 @@ This repository contains a hand-curated resources of Artificial Intelligence tec
 
 |      Name                | Description  | Url | 
 | :-------------------- | :----------: | :----------: |
-| **TBD** | TBD  | [[OpenAI]](https://chat.openai.com/) |
+| **KooBERT** | Masked language model trained on data from the multilingual micro-blogging social media platform Koo India.  | [[HuggingFace]](https://huggingface.co/KooAI/KooBERT) |
 
 
 ## Courses
@@ -94,8 +109,8 @@ This repository contains a hand-curated resources of Artificial Intelligence tec
 ## Videos
 🎥
 
-- [TBD](https://www.youtube.com/watch?v=bBiTR_1sEmI)
-
+- [AI for All: How India is carving its own path in the global AI race](https://oecd.ai/fr/wonk/india)
+- [AI4Bharat Youtube channel](https://www.youtube.com/@ai4bharat)
 
 ## Communities
 🤝
@@ -110,9 +125,4 @@ This repository contains a hand-curated resources of Artificial Intelligence tec
 We welcome contributions to this list! In fact, that's the main reason why I created it - to encourage contributions and encourage people to subscribe to changes in order to stay informed about new and exciting developments in the world of Large Language Models(LLMs) & Prompt-Engineering.
 
 Before contributing, please take a moment to review our [contribution guidelines](contributing.md). These guidelines will help ensure that your contributions align with our objectives and meet our standards for quality and relevance. Thank you for your interest in contributing to this project!
-
-
-<h6 align="center">
-<small><small>Image Source: docs.cohere.ai </small> </small>
-</h6>
 
