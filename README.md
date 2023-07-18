@@ -37,7 +37,7 @@ While 'AI-For-Bharat' is valuable, it doesn't quite encompass the spirit of self
 - **Languages**
 	- [Bhashini](https://bhashini.gov.in/en/) : Will enable a more inclusive future for all Indians by creating language datasets and AI technologies for developing language technology solutions.
 	- [Bhasha Daan](https://bhashini.gov.in/bhashadaan/en/home) : A crowdsourcing part of Bhashini. Anyone can contribute to language dataset by participating with audio to text, image to text, translation challenges.
-	- [AI4Bharat](https://ai4bharat.iitm.ac.in/) : Building open-source AI solutions for India! [Github repo]()
+	- [AI4Bharat](https://ai4bharat.iitm.ac.in/) : The focus of AI4Bhārat is on building open-source language AI for Indian languages, including datasets, models, and applications.
 	
 - **Images**
 	- [Niramai](https://www.niramai.com/): Start-up that provides affordable and fast breast cancer screening at clinics in rural India, where there is a significant shortage of radiologists and labs
@@ -48,7 +48,7 @@ While 'AI-For-Bharat' is valuable, it doesn't quite encompass the spirit of self
 ## Papers
 📄
 - **Research**:
-  - [AI4Bharat](https://ai4bharat.iitm.ac.in/publications)
+  - [AI4Bharat Publications](https://ai4bharat.iitm.ac.in/publications)
   
  
 - **Articles**:
@@ -68,7 +68,7 @@ While 'AI-For-Bharat' is valuable, it doesn't quite encompass the spirit of self
 
 |      Name                | Description  | Url | Paid or Open-Source |
 | :-------------------- | :----------: | :----------: | :----------: |
-| **TBD** | TBD | [[OpenAI]](https://openai.com/api/) | Paid |
+| **TBD** | TBD | [[TBD]](https://openai.com/api/) | Paid |
 
 
 
@@ -91,7 +91,7 @@ While 'AI-For-Bharat' is valuable, it doesn't quite encompass the spirit of self
 ## Courses
 👩‍🏫
 
-- [TBD](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by [deeplearning.ai](https://www.deeplearning.ai/)
+- [TBD](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by [TBD](https://www.deeplearning.ai/)
 
 
 ## Tutorials
