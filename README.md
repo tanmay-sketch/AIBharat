@@ -4,7 +4,8 @@ This repository contains a hand-curated resources of Artificial Intelligence tec
 While 'AI-For-Bharat' is valuable, it doesn't quite encompass the spirit of self-reliance that 'AI-By-Bharat' entails. Who truly owns the AI technology when we use cloud services or open-source frameworks? 🤔 It's a complex matter to define, but imagine a litmus test: if there were sanctions against India, would your AI-powered product or technology still function? 💪
 Having said that, this repo should have place for AI-For-Bharat efforts as well. So, go ahead and suggest those as well.
 
-  
+A similar collection of resources can be found at [The Indic NLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog)  
+
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome" />
   </a>
@@ -78,7 +79,9 @@ Having said that, this repo should have place for AI-For-Bharat efforts as well.
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
-| **TBD** | TBD | [[HuggingFace]](https://huggingface.co/datasets/bigscience/P3) |
+| **IndicCorp** | Large sentence-level monolingual corpora for 11 Indian languages and Indian English containing 8.5 billions words (250 million sentences) from multiple news domain sources. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/corpora) |
+| **IndicNLG Suite** | Training and Evaluation datasets for 5 diverse language generation tasks spanning 11 Indic languages. One of the largest multilingual generation dataset collections across languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indicnlg-suite) |
+
 
 
 ## Models
@@ -87,6 +90,8 @@ Having said that, this repo should have place for AI-For-Bharat efforts as well.
 |      Name                | Description  | Url | 
 | :-------------------- | :----------: | :----------: |
 | **KooBERT** | Masked language model trained on data from the multilingual micro-blogging social media platform Koo India.  | [[HuggingFace]](https://huggingface.co/KooAI/KooBERT) |
+| **IndicBART** | Multilingual, sequence-to-sequence language model trained on IndicCorp covering 11 major Indian and English. It is a single script model that enables better cross-lingual transfer.| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indic-bart) |
+| **Indic Generation Models** | Language generation models for various tasks like headline generation, sentence summarization, etc. The models have be trained by finetuning IndicBART on datasets in the IndicNLGSuite| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indic-bart) |
 
 
 ## Courses
