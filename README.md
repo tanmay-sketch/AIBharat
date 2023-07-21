@@ -63,6 +63,7 @@ A similar collection of resources can be found at [The Indic NLP Catalog](https:
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
 | **AI4Bharat** | Artificial-Intelligence-For-Bhārat : Building open-source AI solutions for India! | [[Github]](https://github.com/AI4Bharat) |
+| **AI4Bharat Tools**| AI based tools that leverage the ML models to bring parity with respect to English in AI technologies for Indian languages | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/tools)|
 
 
 ## Apis
@@ -80,8 +81,18 @@ A similar collection of resources can be found at [The Indic NLP Catalog](https:
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
 | **IndicCorp** | Large sentence-level monolingual corpora for 11 Indian languages and Indian English containing 8.5 billions words (250 million sentences) from multiple news domain sources. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/corpora) |
+| **IndicCorp v2** | IndicCorp v2, the largest collection of texts for Indic languages consisting of 20.9 billion tokens of which 14.4B tokens correspond to 23 Indic languages and 6.5B tokens of Indian English content curated from Indian websites.| [[AI4Bharat]](https://github.com/AI4Bharat/IndicBERT/tree/main#indiccorp-v2)|
 | **IndicNLG Suite** | Training and Evaluation datasets for 5 diverse language generation tasks spanning 11 Indic languages. One of the largest multilingual generation dataset collections across languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indicnlg-suite) |
-
+| **Bharat Parallel Corpus Collection (BPCC)** | BPCC is a comprehensive and publicly available parallel corpus containing a mix of Human labelled data and automatically mined data; totaling to approximately 230 million bitext pairs. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/bpcc)|
+| **IndicXTREME** | To evaluate language models on Indic languages, we need a robust human-annotated NLU benchmark consisting of 9 tasks across 18 Indic languages.| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indicxtreme) |
+| **Bhasha-Abhijnaanam** | Bhasha-Abhijnaanam is a language identification test set for native-script as well as romanized text which spans 22 Indic languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/bhasha-abhijnaanam)|
+| **Naamapadam** | Naamapadam is the largest publicly available Named Entity Recognition (NER) dataset for the 11 major Indian languages. In each language, it contains more than 400k sentences annotated with a total of at least 100k entities from three standard entity categories (Person, Location and Organization) for 9 out of the 11 languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/naamapadam) |
+| **Samanantar** | Samanantar is the largest publicly available parallel corpora collection for Indic languages: Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu. The corpus has 49.6M sentence pairs between English to Indian Languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/samanantar)|
+| **Aksharantar** | Aksharantar is the largest publicly available transliteration dataset for 21 Indic languages. The corpus has 26M Indic language-English transliteration pairs.| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/aksharantar)|
+| **Shrutilipi** | Shrutilipi is a labelled ASR corpus obtained by mining parallel audio and text pairs at the document scale from [All India Radio](https://newsonair.gov.in/) news bulletins for 12 Indian languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/shrutilipi) |
+| **IndicSUPERB** | IndicSUPERB is a robust benchmark consisting of 6 speech language understanding (SLU) tasks across 12 Indian languages. The tasks include automatic speech recognition, automatic speaker verification, speech idntification, query by example and keyword spotting. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indic-superb) |
+| **Dhwani** | Dhwani is a Unlabelled ASR corpus obtained from YouTube and News On AIR news bulletins. The dataset contains raw audios across 40 Indian Languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/dhwani)|
+| **IndicGLUE** | To thoroughly evaluate language models on Indian languages, we need a robust NLU benchmark consisting of a wide variety of tasks and covering all the Indian languages. IndicGLUE is a natural language understanding benchmark that we propose. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indic-glue)|
 
 
 ## Models
@@ -92,6 +103,15 @@ A similar collection of resources can be found at [The Indic NLP Catalog](https:
 | **KooBERT** | Masked language model trained on data from the multilingual micro-blogging social media platform Koo India.  | [[HuggingFace]](https://huggingface.co/KooAI/KooBERT) |
 | **IndicBART** | Multilingual, sequence-to-sequence language model trained on IndicCorp covering 11 major Indian and English. It is a single script model that enables better cross-lingual transfer.| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indic-bart) |
 | **Indic Generation Models** | Language generation models for various tasks like headline generation, sentence summarization, etc. The models have be trained by finetuning IndicBART on datasets in the IndicNLGSuite| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indic-bart) |
+| **Indic Speech-to-Text Conformer** | IndicConformer is a conformer based ASR model containing only 30M parameters, to support real-time ASR systems for Indian languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/models) |
+| **Indic Speech-to-Text Whisperer** | ASR model trained using Whisperer Architecture| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/models)|
+| **Indic Transliterate**| IndicXlit is a transformer-based multilingual transliteration model (~11M) for Roman to native script conversion and vice-versa that supports 21 Indic languages. | [[AI4Bharat]](https://ai4bharat.iitm.ac.in/transliteration)|
+| **IndicTrans** | IndicTrans is a Transformer-4x ( ~434M ) multilingual NMT model trained on Samanantar dataset which is the largest publicly available parallel corpora collection for Indic languages at the time of writing ( 14 April 2021 ).| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indic-trans)|
+| **Indic Natural Language Generation** | AI systems that can generate natural language text can aid users in a variety of writing tasks like summarization, headline/caption generation, paraphrasing, grammar correction, question generation as well as support tasks like dialog and machine translation.| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/language-generation)|
+| **Indic Text-to-Speech** | Indic-TTS is an on-going research focusing on building multispeaker text-to-speech models for Indic languages.| [[AI4Bharat]](https://models.ai4bharat.org/#/tts)|
+| **IndicBert** | IndicBERT is a multilingual ALBERT model trained on large-scale corpora, covering 12 major Indian languages. IndicBERT has much less parameters than other public models like mBERT and XLM-R while it still manages to give state of the art performance on several tasks.| [[AI4Bharat]](https://ai4bharat.iitm.ac.in/indic-bert)|
+| **Indic Named Entity Recognition**| IndicNER is a model trained to complete the task of identifying named entities from sentences in Indian languages. Our model is specifically fine-tuned to the 11 Indian languages mentioned above over millions of sentences. | [[HuggingFace]](https://huggingface.co/ai4bharat/IndicNER)|
+| **Indic Speech2Speech (Experimental)**| Indic Speech2Speech interface combines the power of ASR, NMT and TTS to convert speech from one language to speech in another language.| [[AI4Bharat]](https://models.ai4bharat.org/#/sts)|
 
 
 ## Courses
